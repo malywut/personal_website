@@ -1,5 +1,5 @@
 ---
-title: My Site
+title: Marie-Alice Blete
 toc: false
 ---
 
@@ -14,4 +14,3 @@ This is the landing page.
 
 ## Documentation
 
-For more information, visit [Hextra](https://imfing.github.io/hextra).
