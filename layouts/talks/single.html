@@ -1,0 +1,46 @@
+{{ define "main" }}
+  <div class='mx-auto flex {{ partial "utils/page-width" . }}'>
+    <article class="w-full break-words flex min-h-[calc(100vh-var(--navbar-height))] min-w-0 justify-center pb-8 pr-[calc(env(safe-area-inset-right)-1.5rem)]">
+      <main class="w-full min-w-0 max-w-6xl px-6 pt-4 md:px-12">
+        {{ partial "breadcrumb.html" . }}
+        <h1 class="mt-2 text-4xl font-bold tracking-tight text-slate-900 dark:text-slate-100">{{ .Title }}</h1>
+        {{ with $date := .Date }}
+          <div class="mt-4 mb-16 text-gray-500 text-sm">
+            {{ partial "utils/format-date" $date }}
+            {{- if $.Params.authors }}&nbsp;by&nbsp;{{ end -}}
+            {{- with $.Params.authors -}}
+              {{- range $i, $author := . -}}
+                {{- if $i }},{{ end -}}
+                {{- if $author.link -}}
+                  <a href="{{ $author.link }}" target="_blank" class="mx-1 text-current underline [text-underline-position:from-font] decoration-from-font">{{ $author.name }}</a>
+                {{- else -}}
+                  <span>{{ $author.name }}</span>
+                {{- end -}}
+              {{- end -}}
+            {{- end -}}
+          </div>
+        {{ end }}
+        <div class="content">
+            {{ .Content }}
+            {{ with $key := .Page.Params.slideskey }}
+                <iframe
+                style="width: 100%; height: 500px;" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+                src="http://www.slideshare.net/slideshow/embed_code/key/{{ . }}?startSlide=1" allowfullscreen webkitallowfullscreen mozallowfullscreen> </iframe>
+                <br><br>
+            {{ end}}
+            {{ with $key := .Page.Params.videokey }}
+                <iframe style="width: 100%; height: 500px;"
+                src="https://www.youtube.com/embed/{{ . }}" 
+                title="YouTube video player" frameborder="0" 
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+                allowfullscreen></iframe>
+            {{ end}}
+        </div>
+        {{ partial "components/last-updated.html" . }}
+        {{ .Scratch.Set "reversePagination" true }}
+        {{ partial "components/pager.html" . }}
+        {{ partial "components/comments.html" . }}
+      </main>
+    </article>
+  </div>
+{{ end }}
