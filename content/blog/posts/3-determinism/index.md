@@ -108,7 +108,7 @@ Let's dive deeper once again with the Levenshtein distance:
 
 ![Levenshtein](4.png)
 
-As you can see, the results are also different for each prompts… except for the highest values: for all the prompts, temperature=2 and top_p=1 outputs complete giberrish. For reasonable values (for example temperature = 1 and top_p = 0.5) the outputs for the model have a higher distance for more creative prompts.
+As you can see, the results are also different for each prompts… except for the highest values: for all the prompts, temperature=2 and top_p=1 outputs complete gibberish. For reasonable values (for example temperature = 1 and top_p = 0.5) the outputs for the model have a higher distance for more creative prompts.
 
 ## How does that impact developing apps with OpenAI models?
 
