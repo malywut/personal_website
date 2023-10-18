@@ -1,0 +1,10 @@
+<h3>{{ .Get "articletitle" }}</h3>
+<div style="color: gray;text-transform: uppercase; font-size: 0.8em">
+  {{ .Params.articledate | dateFormat "Jan 2006"}} - {{ .Get "articlemedia" }}   -  {{ .Get "articleauthor" }}  - {{ .Get "articlelanguage" }} 
+  </div>
+<div class="mx-auto flex flex-row space-x-4 w-full">
+<div class="sm:px-12">
+    <p>{{ .Get "articledescription" }}</p>
+    <a href="{{ .Get "articlelink" }}">See more</a>
+</div>
+</div>

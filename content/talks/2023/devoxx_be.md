@@ -4,7 +4,8 @@ conference: "Devoxx Belgium"
 slideskey: "h56YJu4SfmhxFS"
 videokey: "7dY8N97qy0k?si=Wu_PNl56HVFKpQyi"
 date: 2023-10-04T14:53:19+02:00
-language: English
+language: "English"
+tags: ["LLM"]
 ---
 
 ## Abstract
