@@ -5,6 +5,7 @@ slideskey: "g7C1ZxKnjJeHU6"
 videokey: "ClF21mgoj7U?si=d8OtQgGJ2vzMHSUB"
 date: 2023-09-06T14:53:19+02:00
 language: Français
+tags: ["architecture", "ML"]
 ---
 
 ## Abstract

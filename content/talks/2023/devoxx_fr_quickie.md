@@ -5,6 +5,7 @@ slideskey: "31SubHuTFrmJeB"
 videokey: "Jpja9s5FCBg?si=6zLMuR2bmqgeilso"
 date: 2023-04-14T14:53:19+02:00
 language: Français
+tags: ["ML"]
 ---
 ## Abstract
 

@@ -5,6 +5,7 @@ slideskey: "jX8d2kLvgZJ4QY"
 videokey: ""
 date: 2023-04-13T14:53:19+02:00
 language: Français
+tags: ["LLM"]
 ---
 
 ## Abstract

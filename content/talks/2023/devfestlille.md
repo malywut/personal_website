@@ -3,8 +3,9 @@ title: "D’un modèle d'IA dans un notebook à un service temps réel: architec
 conference: "DevFest Lille"
 slideskey: "g7C1ZxKnjJeHU6"
 videokey: "Hud-zvfjfK8?si=LDtgx245eNTvCwHt"
-date: 2023-09-06T14:53:19+02:00
+date: 2023-05-26T14:53:19+02:00
 language: Français
+tags: ["architecture", "ML"]
 ---
 
 ## Abstract
