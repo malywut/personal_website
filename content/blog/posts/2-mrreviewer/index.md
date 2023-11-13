@@ -5,6 +5,7 @@ description: "I tried a merge request reviewer using OpenAI model with a simple 
 tags:
 - OpenAI API
 - ChatGPT
+- "Coding assistants"
 header_image: 'mr_summary_comment.png'
 ---
 *TL;DR: I tried a merge request reviewer using OpenAI model with a simple prompt. The final code is available here: https://github.com/malywut/gpt_mr_reviewer*
