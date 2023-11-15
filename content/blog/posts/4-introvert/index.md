@@ -8,25 +8,25 @@ header_image: "banner.png"
 ---
 ![Navigating Networking as an Introvert](banner.png)
 
-*TL;DR: You are an introvert? You feel awkward among people you don't know or crowds? I have a proof-tested a strategy for you!"*
+*TL;DR: You are an introvert? You feel awkward among people you don't know or crowds? I have tested a strategy for you!"*
 
 Introverts gain energy by spending time alone or with small groups of close friends, whereas extroverts thrive on social interaction. Being an introvert does not necessarily mean being shy, but rather that social interactions can be a challenge, especially among large groups of unknown people.
 
 Now, in the tech world, networking is a game-changer. It's the key to scoring jobs, boosting your career, or just connecting with awesome people who share your passions. By meeting new people and building relationships, you'll be able to expand your professional network. These connections can be your ticket to job opportunities, referrals, and business growth. Sure, tech's moving at warp speed (especially with all that AI hype), but guess what? Networking is still the ace up your sleeve for staying in the know.
 
-So, how can you network as an introvert? Social scenes might not be your natural habitat and networking does not come naturally... But that does not mean it's not possible, just something you can work on. You'll find below 5 strategies that I have tried and worked for me.
+So, how can you network as an introvert? Social scenes might not be your natural habitat and networking does not come naturally... But that does not mean it's not possible, just something you can work on. You'll find below 10 strategies that I have tried and worked for me.
 
 {{% steps %}}
 
 ### Join online communities
 
-If the thought of face-to-face interaction gives you the jitters, find local communities on slack for example, and start networking online! You can also start with social networks - reacting to tech communications is easy and will make you able to spark conversations.
+If the thought of face-to-face interaction gives you the jitters, find local communities on Slack for example, and start networking online! You can also start with social networks - reacting to tech communications is easy and will make you able to spark conversations.
 
 Digital networking lets you ease into the social vibe at your own pace. So, whether you're typing away in a virtual Slack corner or dropping comments on tech updates, you're still building those connections, just with a bit more bandwidth and fewer in-person butterflies.
 
 ### Attend meetups and conferences
 
-This is for me the second obvious step. Finding meetups is an esay step: check out https://www.meetup.com/ for local groups or conference aggregators such as https://dev.events/ and https://confs.tech.
+This is for me the second obvious step. Finding meetups is an easy step: check out https://www.meetup.com/ for local groups or conference aggregators such as https://dev.events/ and https://confs.tech.
 Attending the conference itself? Not the tricky part... The real challenge? You've got to mingle and network, which means actually talking to people. Cue the introvert dilemma!
 
 ### Do your homework before the event
@@ -37,7 +37,7 @@ No, no, we're not talking stalking here – just preparation to keep the convo f
 
 ### Engage conversation as much as possible: break the ice!
 
-It might seem like a no-brainer, but here's the scoop - it's actually the important part. Software conferences and meetups are full of like-minded introverts. Engage the converation with the person sitting next to you: they are attending the same conference, finding a common topic of interest should not be too hard! 
+It might seem like a no-brainer, but here's the scoop - it's actually the important part. Software conferences and meetups are full of like-minded introverts. Engage the conversation with the person sitting next to you: they are attending the same conference, finding a common topic of interest should not be too hard! 
 I find it easier to first start with some thing like "mind if I sit here?" and then continue with something like "are you also working on topic X?" rather than just bluntly talking about tech topics.
 
 You feel awkward speaking to strangers? Well, that stranger is likely to be an introvert too and you might be doing them a favor by taking the initiative to spark the conversation.
@@ -64,9 +64,9 @@ Alright, let's talk survival strategy at conferences. I'm with you on this one �
 
 Prioritize those short breaks to keep your energy levels up and the conference vibes positive.
 
-### Part of a minority? Empoyer yourself
+### Part of a minority? Empower yourself
 
-Being part of a minority brings its own set of dynamics, finding community members is also a great way to feal more secure. From my standpoint, connecting with other women who can share their experiences has been incredibly valuable. Sharing experiences, challenges, and victories with others who understand your unique perspective can be both empowering and reassuring. So, if you're a minority in your field, seek out those who share your journey – it's not just about networking; it's about building a support system that understands and uplifts you.
+Being part of a minority brings its own set of dynamics, finding community members is also a great way to feel more secure. From my standpoint, connecting with other women who can share their experiences has been incredibly valuable. Sharing experiences, challenges, and victories with others who understand your unique perspective can be both empowering and reassuring. So, if you're a minority in your field, seek out those who share your journey – it's not just about networking; it's about building a support system that understands and uplifts you.
 
 ### Become a speaker
 
