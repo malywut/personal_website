@@ -108,7 +108,7 @@ The results on GPT-4 128K and Claude 2.1 100k are displayed here:
 
 I am extremely pleasantly surprised by the results on GPT-4, and I thank the author for spending the $200 needed to do this.
 
-However, like document processing, the context length is not a real technical limitation, and Retrieval Augmented Generation (RAG) already allowed developers to handle information retrieval on large documents. An RAG system needs to be built, of course, and it is not as straightforward as sending documentation "as is" to the LLM, but just like the Map-Reduce approach, tools and frameworks such as [LlamaIndex](https://www.llamaindex.ai/) make it easier to set up.
+However, like document processing, the context length is not a real technical limitation, and Retrieval Augmented Generation (RAG) already allowed developers to handle information retrieval on large documents. A RAG system needs to be built, of course, and it is not as straightforward as sending documentation "as is" to the LLM, but just like the Map-Reduce approach, tools and frameworks such as [LlamaIndex](https://www.llamaindex.ai/) make it easier to set up.
 RAG provides several advantages over the "long context" approach:
 - No limit to the context size
 - Less data leak - only chunks of data are sent to the LLM
@@ -119,7 +119,7 @@ RAG provides several advantages over the "long context" approach:
 But this is only useful if you expect to query your documents multiple times. For a one-time query, the long context approach does make sense.
 
 
-So: question-answering can be done with long contexts using GPT-4 - to some extent. I would not user over 64k context though, and only with one-time queries, where I do not need to have a trace of the information retrieval process. However, a RAG system with GPT-4 would allow to retrieve many and large data-chunks, making it very efficient and reliable. 
+So: question-answering can be done with long contexts using GPT-4 - to some extent. I would not use over 64k context though, and only with one-time queries, where I do not need to have a trace of the information retrieval process. However, a RAG system with GPT-4 would allow to retrieve many large data chunks, making it very efficient and reliable. 
 
 ![question_answering](question_answering.png)
 
@@ -127,6 +127,6 @@ So: question-answering can be done with long contexts using GPT-4 - to some exte
 
 Is it genuinely beneficial to feed a whopping 32k tokens (or even an extravagant 100k) of context to a large language model, even if it's technically capable? Well, the answer depends on the task at hand, but in most cases, the likely verdict is a "probably no." from my point of view.
 
-However, when you take a glance at the buzz on social media, it's hard to ignore.. In the realm of LLM-as-a-service providers, where the fascination with language models is akin to magic, the ability to process an entire book in one call seems to work its own spell... I see that as success great marketing tactic!
+However, when you take a glance at the buzz on social media, it's hard to ignore... In the realm of LLM-as-a-service providers, where the fascination with language models is akin to magic, the ability to process an entire book in one call seems to work its own spell... I see that as successful great marketing tactic!
 
 
