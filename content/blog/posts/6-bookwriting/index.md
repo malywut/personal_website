@@ -7,22 +7,22 @@ tags:
 header_image: "banner.jpg"
 ---
 
-While researching information on writing a technical book, I found a blog post by Justin Garrison, titled [The economics of writing a technical book]("https://rothgar.medium.com/the-economics-of-writing-a-technical-book-689d0c12fe39"), written in 2018. I found this post to be a great read and would like in turn to share my own experience on the topic, update some of the information provided by Justin, and add some insights on the aspect of being a non-American writer.
+While researching information on writing a technical book, I found a blog post by Justin Garrison, titled [The economics of writing a technical book](https://rothgar.medium.com/the-economics-of-writing-a-technical-book-689d0c12fe39), written in 2018. I found this post to be a great read and would like in turn to share my own experience on the topic, update some of the information provided by Justin, and add some insights on the aspect of being a non-American writer.
 
 I have been asked multiple times about the process, the time it took, the financial compensation, and more. I will try to answer these questions in this post.
 
-My introduction will be exactly like Justin's: I am not an expert on the subject. I have co-authored with Olivier Caelen one book in two editions in 2023 and 2024, [Developing Apps with GPT-4 and ChatGPT]("https://appswithgpt.com/"), published by O'Reilly. This post will be *my* experience which might not apply to you - but I hope it will help you in some way.
+My introduction will be exactly like Justin's: I am not an expert on the subject. I have co-authored with Olivier Caelen one book in two editions in 2023 and 2024, [Developing Apps with GPT-4 and ChatGPT](https://appswithgpt.com/), published by O'Reilly. This post will be *my* experience which might not apply to you - but I hope it will help you in some way.
 
 ![Book cover](book_cover.png)
 
-To give you some context which might explain some specificities of my experience, I am French, and I am a software engineer. I have worked in a team specializing in AI for some years now. I also have some experience as a speaker at [tech conferences]("https://mariealiceblete.com/talks/"). Olivier, my co-author is Belgian. He is a researcher in AI, has published several papers, and teaches courses on the subject.
+To give you some context which might explain some specificities of my experience, I am French, and I am a software engineer. I have worked in a team specializing in AI for some years now. I also have some experience as a speaker at [tech conferences](https://mariealiceblete.com/talks/). Olivier, my co-author is Belgian. He is a researcher in AI, has published several papers, and teaches courses on the subject.
 
 ## The process
 
 ### The book proposal
-O'Reilly has a [page to submit a book proposal]("https://www.oreilly.com/work-with-us.html") or training courses, and everyone is free to submit their idea.
+O'Reilly has a [page to submit a book proposal](https://www.oreilly.com/work-with-us.html) or training courses, and everyone is free to submit their idea.
 
-My experience was a little different: Olivier wrote a [great article]("https://medium.com/towards-data-science/unleashing-the-power-of-gpt-how-to-fine-tune-your-model-da35c90766c4") for Towards Data Science, which was noticed by O'Reilly. They contacted him to collaborate, and agreed on a book. Olivier then asked me to co-author the book with him, and we wrote a proposal together.
+My experience was a little different: Olivier wrote a [great article](https://medium.com/towards-data-science/unleashing-the-power-of-gpt-how-to-fine-tune-your-model-da35c90766c4) for Towards Data Science, which was noticed by O'Reilly. They contacted him to collaborate, and agreed on a book. Olivier then asked me to co-author the book with him, and we wrote a proposal together.
 
 A book proposal includes different sections, such as:
 - the title (we worked together with O'Reilly to find the best title)
@@ -91,7 +91,7 @@ This is why we decided to focus on the basics, and on the practical applications
 
 Our focus was also to publish our book fast. The first edition was initially intended for January 2024 - but Olivier and I both agreed that the sooner the better. Developers and AI enthusiasts wanted to start with the API now, not in 6 months. We decided to publish the first edition in September 2023. I am still very happy with this decision: a short, practical guide in September 2023 was much more useful to our audience than an advanced guide in January 2024 - which would have still been outdated and would have been a nightmare to write with all the continuous changes. We were able to reach our audience faster, and to get feedback from them to improve our book. we did a minor update in November though, to include a new feature from OpenAI.
 
-We felt that a second edition was needed early 2024. Not because of the changes on OpenAI's side, but because of how the tech community evolved. As an example, the first edition does not contain the word RAG. This seems a huge miss now, but at the time of writing, [RAG was not a thing]("https://trends.google.com/trends/explore?date=today%205-y&q=retrieval%20augmented%20generation"). To be clear, we did provide multiple examples on RAG systems, but we named them "Question Answering with AI" or similar. 
+We felt that a second edition was needed early 2024. Not because of the changes on OpenAI's side, but because of how the tech community evolved. As an example, the first edition does not contain the word RAG. This seems a huge miss now, but at the time of writing, [RAG was not a thing](https://trends.google.com/trends/explore?date=today%205-y&q=retrieval%20augmented%20generation). To be clear, we did provide multiple examples on RAG systems, but we named them "Question Answering with AI" or similar. 
 The second edition has almost doubled the number of pages with a deeper analysis of the AI engineering process, additional tools and methods to get ready for production.
 
 ### Writing a book in English as two French speakers
