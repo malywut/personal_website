@@ -35,7 +35,9 @@ Once the proposal is accepted, both parties sign an agreement, and the writing c
 ### The writing
 Once the agreement was signed, I felt that writing the book itself came smoothly. Our outline was detailed, I knew what I had to write, and I had a clear idea of the content. Olivier and I have different backgrounds and expertise, and the splitting was easy: I would write the chapters on the practical applications, and Olivier would write the chapters closer to theory. 
 
-We used Google Docs, which was very practical to work with, especially with a co-author. We could see each other's changes in real-time, and we could comment on each other's work. We also used the comments to ask each other questions, to suggest changes, and to give feedback.
+To be honest though, we did make several changes along the way, for both editions. Some small (adding some examples), some big (removing an Appendix in the first edition, and adding one and a new chapter in the second one).
+
+We used Google Docs, which was very practical to work with, especially with a co-author. We could see each other's changes in real-time, and we could comment on each other's work. We also used the comments to ask each other questions, to suggest changes, and to give feedback. O'Reilly has another solution, called Atlas, which looked less practical to us - but to be fair we have not tried it.
 
 I found the writing itself to be the less time-consuming part. Writing a technical book includes:
 - the research: keeping track of the latest research, the latest tools, the latest methods, the latest news on the subject
@@ -84,6 +86,7 @@ My personal (unanswered) questions are how does O'Reilly balance between well-kn
 ## Lessons Learned
 
 ### Writing a book on a technical subject that is evolving rapidly
+
 "Rapidly" doesn't even begin to cover it. 
 For the first edition, we had to review our manuscript several times to make changes to catch up with OpenAI's announcements. And even though we did our best, our book was already outdated when it was published, thanks to a new feature added on the eve of our book release. This is a common issue with technical books, but I believe we chose the worst possible topic in this aspect. The field is evolving so fast that it is impossible to keep up with the latest research. 
 
@@ -95,6 +98,7 @@ We felt that a second edition was needed early 2024. Not because of the changes 
 The second edition has almost doubled the number of pages with a deeper analysis of the AI engineering process, additional tools and methods to get ready for production.
 
 ### Writing a book in English as two French speakers
+
 English is not our mother tongue for both of us (it might show through this article). I grew up in Australia, and I would say I am almost a native English speaker, but I can make some basic English mistakes and I work slower in English than I would in French. However, English is the language of the tech industry, and we both work in English on a daily basis. I would have had more trouble writing the book in French, as I am not familiar with the correct French tech vocabulary. The French publisher who translates O'Reilly books actually contacted us to translate the book, but we declined.
 
 I have been asked multiple times: did we use ChatGPT to generate the book? The answer is a firm no:
@@ -110,17 +114,20 @@ I also used another AI tool to help me with the writing, which is Grammarly. Thi
 I found that having a co-author was a great help, on many levels.
 First, we complement ourselves technically: Olivier is more into the theory, and I am more into the practical applications. This means that we could split the work easily, and that the book is more complete.
 Second, we could motivate each other. Writing a book is a long process, and it is easy to lose motivation. Having a co-author means that you have someone to push you, to help you, to motivate you. You also owe it to them to be on track.
-Third, we could review each other's work. I found this to be a great way to learn from each other, and to improve the quality of the book. I also found that reviewing someone else's work is a great way to improve your own writing. I would recommend this to anyone writing a book. And reciprocately, I could ask him questions or his opinion on some sections I had doubts about.
-Fourth, we could share the workload. We had different personal situations, and different ways of working. We had agreed to do a 50/50 split on the royalties, but we never monitored how much time each of us spent on the book, or how much content was produced by each one of us. We had different ways of managing our time and globally we trusted each other. On the first edition I would say that Olivier wrote more, and I spent more time on the other steps of the process - but both of us are fine with this. Knowing that Olivier was available when I was not, and reciprocately, was a lifesaver to stay on track with the deadlines.
+Third, we could review each other's work. I found this to be a great way to learn from each other, and to improve the quality of the book. I also found that reviewing someone else's work is a great way to improve your own writing. I would recommend this to anyone writing a book. And reciprocally, I could ask him questions or his opinion on some sections I had doubts about.
+Fourth, we could share the workload. We had different personal situations, and different ways of working. We had agreed to do a 50/50 split on the royalties, but we never monitored how much time each of us spent on the book, or how much content was produced by each one of us. We had different ways of managing our time and globally we trusted each other. On the first edition I would say that Olivier wrote more, and I spent more time on the other steps of the process - but both of us are fine with this. Knowing that Olivier was available when I was not, and reciprocally, was a lifesaver to stay on track with the deadlines.
 
 I would definitely recommend having a co-author, if you can find someone you trust, and that you can work with. But I would also recommend having a clear agreement on the workload, the royalties, and the deadlines beforehand, knowing that perfect equality is not possible.
 
 ### Balancing work, family and writing
-The two editions were included in our employer's program to support technical advocacy. This means that the books are our personal initiative, we wrote the book in our spare time, but we had some support from our employer in the form of a little spare time to do some research on the topic. This means that a part of the research was done during my work time, or was derived from my work. On the other hand, the research I did in my free time for the book was useful for my work. This might seem obvious, but writing a technical book on a subject that you use daily a work is a great way to improve your skills and knowledge on the subject, and reciprocately, the quality and depth of your writing will be improved by your daily work.
+
+The two editions were included in our employer's program to support technical advocacy. This means that the books are our personal initiative, we wrote the book in our spare time, but we had some support from our employer in the form of a little spare time to do some research on the topic. This means that a part of the research was done during my work time, or was derived from my work. On the other hand, the research I did in my free time for the book was useful for my work. This might seem obvious, but writing a technical book on a subject that you use daily a work is a great way to improve your skills and knowledge on the subject, and reciprocally, the quality and depth of your writing will be improved by your daily work.
 
 While writing the book, I had a part-time job (one afternoon off/week), but with two children under 5 to entertain during that time. I also have a time-consuming hobby (climbing) which I need to do for my overall health - I am much more productive at work, patient with my children and overall happier when I climb regularly.
 
 Overall, during two months, I had to use up all the spare time I could find to write the book. I took some days off from work to write. I wrote evenings and weekends. I worked on the book during my children's nap time. I worked in my car while my partner was driving on family weekends. I worked on my phone while waiting at a Muse concert. It was a real challenge, I would not have been able to do it without my partner's support and patience.
+
+If you plan to write a book, estimating the time you have to do so is really mandatory. For us is as a a short but very intense effort. I think it is more common to write books on a longer time frame, which has the downside of testing your motivation. Are you in a sprint or marathon mindset?
 
 
 ## Financial compensation
