@@ -1,6 +1,6 @@
 ---
-title: "Personal insights on writing a technical book"
-date: 2024-06-03T15:11:44+02:00
+title: "Updates on the economics of writing a technical book"
+date: 2024-06-04T15:11:44+02:00
 description: ""
 tags: 
 - book
