@@ -2,7 +2,7 @@
 title: "Du Clic à la Conversation : remplaçons boutons et formulaires par un LLM !"
 conference: "Devoxx France"
 slideskey: "btLT89FXWHbdqW"
-videokey: ""
+videokey: "DN8WtezZKYA"
 date: 2024-04-17T14:53:19+02:00
 language: Français
 tags: ["LLM"]
